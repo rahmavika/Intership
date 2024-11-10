@@ -20,5 +20,5 @@
    Mencatat barang yang keluar dari gudang.
    Pengguna mencatat barang yang keluar, misalnya untuk pengiriman ke lokasi lain atau dipinjam.
    Informasi yang dicatat meliputi nama barang, jumlah barang keluar, tanggal keluar, tujuan.
-
+   
 
