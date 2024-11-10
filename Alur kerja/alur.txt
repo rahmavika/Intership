@@ -1,0 +1,24 @@
+1. Registrasi & login
+   Resgistrasi : Pengguna memasukkan name, email dan password di halaman regstrasi, jika berhasil diarahkan ke halaman login.
+   Login : Pengguna memasukkan email dan password di halaman login, jika berhasil di alihkan ke dashboard
+
+2. Pengguna dapat mengelola data barang, menambah, memperbarui, dan menghapus data barang
+   Pengguna dapat memilih menu untuk melihat detail data barang, menambahkan barang baru
+
+3. Pengelolaan kategori
+   Mengatur kategori-kategori barang untuk memudahkan pengelompokan barang yang ada di gudang.
+
+4. Pengelolaan Supplier
+   Menyimpan data pemasok atau supplier barang. Data supplier ini akan digunakan saat transaksi barang masuk, memudahkan pelacakan dari mana barang-barang berasal.
+
+5. Barang masuk
+   Mencatat barang yang masuk ke gudang.
+   Pengguna mencatat barang yang diterima dari supplier, dengan informasi nama barang, jumlah barang masuk, tanggal masuk,
+   supplier.
+
+6. Barang Keluar
+   Mencatat barang yang keluar dari gudang.
+   Pengguna mencatat barang yang keluar, misalnya untuk pengiriman ke lokasi lain atau dipinjam.
+   Informasi yang dicatat meliputi nama barang, jumlah barang keluar, tanggal keluar, tujuan.
+
+
